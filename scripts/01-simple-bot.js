@@ -5,5 +5,5 @@ const bot = mineflayer.createBot({
   host: 'localhost',
   port: '12345',
   username: "Hello_world",
-  version: '1.8.9'
+  version: '1.20.6'
 });
